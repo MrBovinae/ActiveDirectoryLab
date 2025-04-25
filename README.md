@@ -1,4 +1,4 @@
-<h1>Active Directory Lab - Vulnerability Management Level threat detection</h1>
+<h1>Active Directory Lab - Vulnerability Management Threat Detection</h1>
 
 <h2>Description</h2>
 Project consists of a simple example of how we would discover threats or vulnerabilities within a virtual machine used by an employee
