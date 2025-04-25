@@ -54,7 +54,8 @@ Even if such visibility were available, identifying a suspicious or unauthorized
 
 This scenario demonstrates the value of proactive detection over reactive observation—supporting the Zero Trust principle of "never trust, always verify."
 <br />
-Observe the Vulnerabilities discovered during the scan. :  <br/>
+
+The Vulnerabilities discovered during the scan, show the TXT has properly triggered TENABLE to react in the correct parameters.  :  <br/>
 <img src="https://i.imgur.com/hHevbbG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
