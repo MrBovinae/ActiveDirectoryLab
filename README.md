@@ -29,20 +29,20 @@ Run Tenable through powershell the reason we are running tenable internally inst
 <img src="https://i.imgur.com/n32MMOh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm Tenable is running through the program data in the background as we can see a folder has been created:  <br/>
+Confirm Tenable is running through the program data in the background as we can see a folder has been created based of the preset trigger of a new file:  <br/>
 <img src="https://i.imgur.com/jRXeklH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d85P68N.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The process is still running in the background and is visible in the Task Manager:  <br/>
+<img src="https://i.imgur.com/uZ7ek6Q.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe the Vulnerabilities discovered during the scan. :  <br/>
+<img src="https://i.imgur.com/hHevbbG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
