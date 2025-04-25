@@ -1,14 +1,13 @@
 <h1>Active Directory Lab - Vulnerability Management Threat Detection</h1>
 
 <h2>Description</h2>
-Project consists of a simple example of how we would discover threats or vulnerabilities within a virtual machine used by an employee
+In this Project, we will discover threats or vulnerabilities within a virtual machine used by an employee.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Tenable</b> 
 
 <h2>Environments Used </h2>
 
