@@ -1,7 +1,7 @@
 <h1>Active Directory Lab - Vulnerability Management Threat Detection</h1>
 
 <h2>Description</h2>
-In this Project, we will discover threats or vulnerabilities within a virtual machine used by an employee.
+In this Project, we will discover threats or vulnerabilities within a virtual machine used by an employee in a simulated Zero Trust Enviroment.
 <br />
 
 
