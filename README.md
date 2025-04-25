@@ -8,7 +8,7 @@ In this Project, we will discover threats or vulnerabilities within a virtual ma
 <h2>Utilities Used</h2>
 
 - <b>Tenable</b> 
-- <b>Tenable</b> 
+- <b>Powershell</b> 
 
 <h2>Environments Used </h2>
 
