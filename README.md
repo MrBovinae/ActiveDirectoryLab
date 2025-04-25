@@ -21,7 +21,7 @@ Launch the utility: <br/>
 <img src="https://i.imgur.com/c4mlkS6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create The Agent, in this case the Agent has been set to trigger on the creation of a TXT file, this is done to simulate a Zero Trust restricted access enviorement where the user is not expected to put anything on the file and strictly access assets through the IDP.:  <br/>
+Create The Agent, in this case the Agent has been set to trigger on the creation of a TXT file, this is done to simulate a Zero Trust Enviornment where the user first enters through a secured gateway and is not expected to put anything on the Machine itself as it natively restricts file creation. Furthermore access to assets is strictly enforced through the (IDP) Identity Access Provider, MFA tokens. .:  <br/>
 <img src="https://i.imgur.com/L2tDyvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
