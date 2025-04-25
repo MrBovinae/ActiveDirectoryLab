@@ -18,19 +18,19 @@ In this Project, we will discover threats or vulnerabilities within a virtual ma
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c4mlkS6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create The Agent:  <br/>
+<img src="https://i.imgur.com/L2tDyvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run Tenable through powershell the reason we are running tenable internally instead of through their website is this threat scan is intented to simulate the usual method of breach perfomed in thr background through powershell from a Malfesant operation: <br/>
+<img src="https://i.imgur.com/n32MMOh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirm Tenable is running through the program data in the background as we can see a folder has been created:  <br/>
+<img src="https://i.imgur.com/jRXeklH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
